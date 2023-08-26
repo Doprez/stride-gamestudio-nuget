@@ -13,4 +13,4 @@ One issue I found is there seems to be a runtime error regarding fonts although 
 
 ![image](https://user-images.githubusercontent.com/73259914/232236055-da18fc85-21ea-43ba-b5e6-2abd68206c38.png)
 
-Another issue that doesnt really matter but could explain some future/current problems that are found is the icon for gamestudio is the default windows app icon. Clearly with this way of using gamestudio some resources have not been included or loaded.
+Another issue, that doesnt really matter but could explain some future/current problems that are found, is the icon for gamestudio is the default windows app icon. Clearly with this way of using gamestudio some resources have not been included or loaded.
